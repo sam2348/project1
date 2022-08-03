@@ -1,6 +1,5 @@
 import '../App.css';
 import React, { useState } from 'react';
-import { Rating } from 'react-simple-star-rating'
 
 function Extra() {
   const [num, setNum] = useState(0);
