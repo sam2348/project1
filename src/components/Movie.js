@@ -1,13 +1,18 @@
 import React from "react";
-import {Routes,Route,} from "react-router-dom";
-import Mnavbar from './Mnavbar';
+import {Routes,} from "react-router-dom";
+import Mnav from './Mnav';
+import Mhome from './Mhome';
+
+
+
 
 function Movie() {
   return( 
     <>
-    <Mnavbar />
+     <Mnav />
+     <Mhome />
      <Routes>
-      
+     
      </Routes>
     </>
   );

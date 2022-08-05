@@ -1,22 +1,49 @@
 {
   "users": [
     {
-      "MovieName": "",
-      "link": "",
-      "photoLink": "",
-      "rating": "",
-      "releseDate": "",
-      "description": "",
+      "MovieName": "thor",
+      "link": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "photoLink": "https://youtu.be/lVJLNsLNnWs",
+      "rating": "4",
+      "releseDate": 2022,
+      "description": "dfggfdgfdgfdgfd",
       "id": 1
     },
     {
-      "MovieName": "thor",
+      "MovieName": "spiderman",
+      "link": "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "photoLink": "https://youtu.be/lVJLNsLNnWs",
+      "rating": "4",
+      "releseDate": 2020,
+      "description": "mynameissandeepkumarsandepmyageis21",
+      "id": 2
+    },
+    {
+      "MovieName": "chor",
       "link": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "photoLink": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "photoLink": "https://youtu.be/lVJLNsLNnWs",
       "rating": "4",
       "releseDate": 2022,
-      "description": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "id": 2
+      "description": "fdgdfdggdfgdfg",
+      "id": 3
+    },
+    {
+      "MovieName": "bankchor",
+      "link": "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "photoLink": "https://youtu.be/lVJLNsLNnWs",
+      "rating": "4",
+      "releseDate": 2022,
+      "description": "fdfsdfsdsdfsdf",
+      "id": 4
+    },
+    {
+      "MovieName": "Dark",
+      "link": "https://occ-0-2484-3662.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVLn6xY1bOI5mPeAZpU6v7wafhinJ0mnG3D1TKZM_Zv79mQIdxW9P41ZGyMcyxN4xI5vhRMyfF_6F4tsKCKxsGrXirLt-h32Ar1B.jpg?r=077",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/DarkNetflixPosterEnglish.jpg/250px-DarkNetflixPosterEnglish.jpg",
+      "rating": "4.8",
+      "releseDate": 2022,
+      "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+      "id": 5
     }
   ]
 }

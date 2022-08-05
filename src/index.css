@@ -6,3 +6,14 @@
 .bg1{
   background-color: green;
 }
+#btn:hover{
+  background-color: red;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+.video{
+  align-items: center;
+  margin-top: -360px;
+  margin-left:257px;
+}

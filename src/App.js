@@ -5,7 +5,8 @@ import Navbar from './components/Navbar';
 import Movie from './components/Movie';
 import AddUser from './components/AddUser';
 import Home from './components/Home';
-import Mhome from './components/Mhome';
+import NextPage from './components/NextPage';
+// import Mhome from './components/Mhome';
 import {Routes,Route,} from "react-router-dom";
 
 
@@ -22,9 +23,11 @@ function App() {
       <Routes>
         <Route path="HookUseState" element={<HookUseState />} />
         <Route path="Extra" element={<Extra />} />
-        <Route path="/Movie/*" element={<Movie />} />
+        <Route path="/Movie/*" element={<Movie />}>
+        {/* <Route path="/Movie/*" element={<Mhome />} /> */}
+        </Route>
         <Route path="/" element={<Home />} />
-        <Route path="/mhome" element={<Mhome />} />
+        <Route path="/Movie/:MovieName" element={<NextPage />} />
         <Route path="/user/:username" element={<AddUser />} />
       </Routes>
     </>
